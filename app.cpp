@@ -1,5 +1,5 @@
-#include <app.h>
-#include <main_frame.h>
+#include "app.h"
+#include "main_frame.h"
 #include <wx/wx.h>
 
 wxIMPLEMENT_APP(App);
